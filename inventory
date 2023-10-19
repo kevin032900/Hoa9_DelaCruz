@@ -1,0 +1,6 @@
+[Ubuntu]
+192.168.56.102 ansible_user=kevin
+
+[CentOS]
+kcruz@192.168.56.113 ansible_user=kevin
+
